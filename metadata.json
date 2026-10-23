@@ -1,0 +1,6 @@
+{
+  "name": "Urban Edge Studio - Artisanal Grooming & Bespoke Atelier",
+  "description": "Artisanal grooming for the modern gentleman. Disciplined architectural precision, restorative hot-towel rituals, and tailored masculine luxury in Soho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
